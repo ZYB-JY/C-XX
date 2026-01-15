@@ -1,9 +1,7 @@
-/*
 #include <stdio.h>
 
 int main()
 {
-	printf("ÍÆËÍ");
+	printf("³¢ÊÔ");
 	return 0;
 }
-*/

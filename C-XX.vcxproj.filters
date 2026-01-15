@@ -18,5 +18,11 @@
     <ClCompile Include="he_wo.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="tuisong.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="changshi.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
