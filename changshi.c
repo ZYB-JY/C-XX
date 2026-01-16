@@ -2,7 +2,6 @@
 
 int main()
 {
-	printf("hellow world!");
+	printf("≥¢ ‘");
 	return 0;
-}
-*/
+}*/

@@ -1,9 +1,8 @@
-/*
 #include <stdio.h>
 
 int main()
 {
-	printf("อฦหอ");
+
+	printf("");
 	return 0;
 }
-*/

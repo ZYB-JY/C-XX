@@ -127,9 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="changshi.cpp" />
-    <ClCompile Include="he_wo.cpp" />
-    <ClCompile Include="tuisong.cpp" />
+    <ClCompile Include="changshi.c" />
+    <ClCompile Include="he_wo.c" />
+    <ClCompile Include="tuisong.c" />
+    <ClCompile Include="变量.c" />
+    <ClCompile Include="整形数据类型.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
