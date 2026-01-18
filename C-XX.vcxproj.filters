@@ -36,7 +36,7 @@
     <ClCompile Include="4_字符类型.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="布尔类型.c">
+    <ClCompile Include="5_布尔类型.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
