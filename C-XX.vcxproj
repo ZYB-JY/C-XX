@@ -127,11 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="changshi.c" />
-    <ClCompile Include="he_wo.c" />
-    <ClCompile Include="tuisong.c" />
-    <ClCompile Include="变量.c" />
-    <ClCompile Include="整形数据类型.c" />
+    <ClCompile Include="0_changshi.c" />
+    <ClCompile Include="3_floatdouble.c" />
+    <ClCompile Include="0_he_wo.c" />
+    <ClCompile Include="0_tuisong.c" />
+    <ClCompile Include="1_变量.c" />
+    <ClCompile Include="2_整形数据类型.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
