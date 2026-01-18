@@ -33,5 +33,11 @@
     <ClCompile Include="3_floatdouble.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="4_字符类型.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="布尔类型.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -133,6 +133,8 @@
     <ClCompile Include="0_tuisong.c" />
     <ClCompile Include="1_变量.c" />
     <ClCompile Include="2_整形数据类型.c" />
+    <ClCompile Include="4_字符类型.c" />
+    <ClCompile Include="布尔类型.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
