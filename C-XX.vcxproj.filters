@@ -42,5 +42,11 @@
     <ClCompile Include="6_类型转换.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="7_常量.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8_输入输出.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
