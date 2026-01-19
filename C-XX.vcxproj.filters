@@ -39,5 +39,8 @@
     <ClCompile Include="5_布尔类型.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="6_类型转换.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

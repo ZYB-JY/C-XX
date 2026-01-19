@@ -135,6 +135,7 @@
     <ClCompile Include="2_整形数据类型.c" />
     <ClCompile Include="4_字符类型.c" />
     <ClCompile Include="5_布尔类型.c" />
+    <ClCompile Include="6_类型转换.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
