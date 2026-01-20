@@ -1,6 +1,5 @@
+/*
 #include <stdio.h>
-
-
 
 int main()
 {
@@ -25,4 +24,4 @@ int main()
 	printf("hex = %#X\n", x); // 0X64	显示前缀 0X 的十六进制整数。
 
 	return 0;
-}
+}*/

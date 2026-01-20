@@ -51,5 +51,8 @@
     <ClCompile Include="9_二进制.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="10_算数运算符.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

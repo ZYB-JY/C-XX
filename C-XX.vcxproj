@@ -139,6 +139,7 @@
     <ClCompile Include="7_常量.c" />
     <ClCompile Include="8_输入输出.c" />
     <ClCompile Include="9_二进制.c" />
+    <ClCompile Include="10_算数运算符.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
