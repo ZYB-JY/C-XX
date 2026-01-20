@@ -54,5 +54,23 @@
     <ClCompile Include="10_算数运算符.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="11_赋值运算符.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="12_比较运算符.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="13_逻辑运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="14_位运算符.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="15_条件运算符.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="16_sizeof运算符.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
