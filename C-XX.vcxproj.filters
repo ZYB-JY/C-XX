@@ -60,7 +60,7 @@
     <ClCompile Include="12_比较运算符.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="13_逻辑运算符.cpp">
+    <ClCompile Include="13_逻辑运算符.c">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="14_位运算符.c">
@@ -73,6 +73,12 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="17_分支结构if-else.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="18_分支结构switch-case.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="19_for循环.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
